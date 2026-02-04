@@ -82,7 +82,6 @@ WantedBy=multi-user.target
 ```
 
 **NOTE: Ensure you replace <MYSQL-SERVER-IPADDRESS> with IP address**
-
 Load the service.
 
 ```
